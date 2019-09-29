@@ -1,0 +1,32 @@
+•	What is Version Control System?
+A version control system allows users to track of the changes in software development projects, and enable them to collaborate on those projects.Using VCS, the developers can work together on code and separate their tasks through branches .
+There can be many branches in a version control system, according the number of collaborators. The branches maintain individuality in code changes remain in a specified branches.
+Developers can combine the code changes when required. Further, they can view the history of changes, go back to the previous versions and use manage code in the desired fashion.
+•	Why is important?
+The advantages of using a version control system include streamlining the development process, management of code for multiple projects and keeping a history of all changes within a code.
+A version control software saves all the changes in a repository.if the developers make a mistake, and they can undo. At the same time, they can compare the code with a previous versions to resolve their grievance. This can reduce human errors and unintended consequences to a great extent. A great fit for company web development around the globe.
+Also, can be integrated with many software development tools like Paas providers .
+•	Give Examples for Version Control System?
+1. GitHub
+GitHub helps software team to collaborate and maintain the entire history of code change. You can track changes in codes,turn back the clock to undo errors and share your efforts with other team members.
+It is a repository to host Git projects. For user wondering what is Git It is an open source version control system that features local branching, multiple workflows, and convenient staging areas. Git version control is an easy to learn option and offer.
+2. GitLab
+GitLab comes with a lot of Useful features like an integrated project, a project website. Using the continuous integration capabilities of GitLab,you can automatically test and deliver the code.
+You can access all the aspect of a project,view codes, pull request and combine the conflict resolution.
+3. Beanstalk
+Beanstalk is an ideal option for those need to work from remote places. This software is based on browser and cloud, allowing user to code, commit, review and deploy using a browsers.
+It can be integrated with messaging and email for efficient collaborations related to code and update.It support the Git and SVN and comes with built in analytics features.
+For security,it leverages encryption, two factor authentication,and password protection functionalities.
+
+4. PerForce.
+Perforce delivers the version control capabilities through its HelixCore.The HelixCore comes with a single platform for seamless team collaboration, and support for both centralized and distributed development workflows.
+It is a security solution that protects the most valuable assets.HelixCore allows you to track the code changes accurately and facilitates a complete Git ecosystem.
+5. Apache Subversion:
+Apache Subversion is another open source version control system, which founded by CollabNet a couple of decades ago. Both open source and enterprises consider it a reliable option valuable.
+
+Reference :
+hackernoon.com
+https://hackernoon.com/top-10-version-control-systems-4d314cf7adea
+
+
+
